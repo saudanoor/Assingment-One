@@ -18,7 +18,7 @@ body{
 .first-container{
     height: 131px;
     max-width: 1440px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
    
 }
@@ -26,8 +26,8 @@ body{
 .awlad{
     height:  131px;
     width: 50%;
-    border: 2px solid blue;
-}
+    /* border: 2px solid blue;*/
+} 
 
 .text{
     /* Awlad.H */
@@ -48,7 +48,7 @@ text-align: left;
 .download{
     height:  131px;
     width: 50%;
-    border: 2px solid green;
+    /* border: 2px solid green; */
 }
 
 .box button{
@@ -475,12 +475,13 @@ flex-direction: row;
 
 
 /* HTML BOX */
-.outerbox{
+.outerboxhtml{
     border-radius: 16px;
     /* border: 2px solid  violet;
     */
     
-    background-color: rgba(197, 39, 0, 0.05);
+    background-color: rgba(197, 39, 0, 0.068);
+    
 
 
 
@@ -492,6 +493,50 @@ padding: 40px;
 margin-left: 5px;
 margin-right: 15px;
 }
+
+.outerboxcss{
+    
+    border-radius: 16px;
+    /* border: 2px solid  violet;
+    */
+    
+    background-color: rgba(3, 94, 99, 0.068);
+    
+
+
+
+position: static;
+width: 364px;
+height: 300px;
+padding: 40px;
+
+margin-left: 5px;
+margin-right: 15px;
+
+}
+
+.outerboxjs{
+
+    border-radius: 16px;
+    /* border: 2px solid  violet;
+    */
+    
+    background-color: rgba(247, 4, 235, 0.068);
+    
+
+
+
+position: static;
+width: 364px;
+height: 300px;
+padding: 40px;
+
+margin-left: 5px;
+margin-right: 15px;
+
+
+}
+
 
 
 .icon{
