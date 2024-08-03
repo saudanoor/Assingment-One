@@ -125,7 +125,7 @@ padding: 26px 221px 44px 221px;
 
 .frame-4{
     /* Frame 4 */
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 position: absolute;
 width: 998px;
 height:  582px;
@@ -136,7 +136,7 @@ flex-direction: column;
 }
 
 .frame-box{
-    border: 2px solid purple;
+    /* border: 2px solid purple; */
     width: 998px;
     height: 50%;
 }
@@ -151,7 +151,7 @@ flex-direction: column;
 }
 
 .frame-3a{
-    color: rgb(13, 19, 33);
+    /* color: rgb(13, 19, 33); */
     font-family: Azeret Mono;
     font-size: 40px;
     font-weight: 650;
@@ -201,6 +201,7 @@ background: rgb(89, 91, 95);
 border-radius: 8px;
 
 margin-top: 40px;
+cursor: pointer;
 
 }
 
@@ -306,14 +307,14 @@ margin-top: 28px;
 
 }
 
-.learnmore{
+.learnmore button{
 
     margin-top: 55px;
     width: 150px;
     height: 48px;
 
     box-sizing: border-box;
-border: 1px solid rgb(13, 19, 33);
+border: 2px solid rgb(13, 19, 33);
 opacity: 0.7;
 
 color: rgb(13, 19, 33);
@@ -323,11 +324,16 @@ font-weight: 550;
 line-height: 20px;
 letter-spacing: 0%;
 text-align: center;
-padding-top: 12px;
-
+padding: 4px;
+background-color: antiquewhite;
+cursor: pointer;
+    
+   
 
 
 }
+
+
 
 .image{
     background-image: url("/assets/Layer_1.png");
