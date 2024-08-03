@@ -520,3 +520,122 @@ margin-top: 20px;
 
 
 
+.iconcss{
+    background-image: url("../assets/css.png");
+    position: static;
+width: 56px;
+height: 56px;
+}
+
+.iconjavasc{
+    background-image: url("../assets/js.png");
+    position: static;
+width: 56px;
+height: 56px;
+}
+
+/* I need support starts here */
+
+.frame-8{
+    border: solid 2px  pink;
+
+    position: absolute;
+width: 1140px;
+height: 314px;
+left: 150px;
+right: 150px;
+top: 3800px;
+bottom: 179px;
+margin-bottom: 200px;
+
+border-radius: 16px;
+
+display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+background-image: url("../assets/handshake.jpg");
+
+
+
+}
+
+
+   
+    
+ .supportcontents{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    margin-top: 64px;
+} 
+
+.handshake{
+   
+}
+
+
+
+.supportTitle{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+
+
+margin-top: 24px;
+}
+
+.supportdes{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 350;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+
+margin-top: 20px;
+}
+
+.emailme{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-top: 24px;
+}
+
+.emailbox input{
+    position: static;
+    width: 548px;
+    height: 57px;
+    align-items: center;
+    
+
+}
+
+
+
+.subbutton button{
+    position: static;
+    width: 120px;
+    height: 58px;
+}
+
+
+
+.lastdiv{
+    border: 2px solid rebeccapurple;
+    width: 1140px;
+height: 90px;
+left: 150px;
+right: 150px;
+margin-top: 4000px;
+bottom: 379px;
+}
