@@ -171,7 +171,7 @@ letter-spacing: 0%;
 text-align: center;
 }
 
-.button-box{
+/* .button-box{
     position: static;
 width: 208px;
 height: 66px;
@@ -183,9 +183,9 @@ background: rgb(13, 19, 33);
 margin-left: 385px;
 margin-top: 45px;
 
-}
+} */
 
-.contact{
+.button-box button{
     color: rgb(255, 255, 255);
 font-family: Azeret Mono;
 font-size: 16px;
@@ -196,6 +196,11 @@ text-align: center;
 position: static;
 align-items: center;
 padding: 21px 24px 21px 24px;
+
+background: rgb(89, 91, 95);
+border-radius: 8px;
+
+margin-top: 40px;
 
 }
 
