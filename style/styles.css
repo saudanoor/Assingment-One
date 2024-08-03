@@ -441,9 +441,12 @@ width: 1140px;
 height: 300px;
 }
 
+
+/* 3 boxes start here */
 .outerbox{
     border-radius: 16px;
     border: 2px solid  violet;
+    background-color: rgba(255, 76, 30, 0.05);;
 
 
 
@@ -461,6 +464,46 @@ width: 56px;
 height: 56px;
 }
 
+
+
+.titlebox{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+
+
+margin-top: 24px;
+}
+.textbox{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 350;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+
+margin-top: 20px;
+
+}
+
+.learnbutton{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+
+    margin-top: 17px;
+}
 
 
 
