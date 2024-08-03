@@ -333,11 +333,11 @@ padding-top: 12px;
     top: 1.74%;
     bottom: -1.74%;
 
-    margin-left: 200px;
+    margin-left: 120px;
 }
 
 .imageB{
-    background-image: url("../assets/Layer_1.png");
+    background-image: url("../assets/Group\ 3.png");
     width: 259.56px;
     height: 217.01px;
     left: 0.36%;
@@ -345,8 +345,19 @@ padding-top: 12px;
     top: 1.74%;
     bottom: -1.74%;
 
-    margin-right: 200px;
+    margin-right: 120px;
 }
 
 
+.imageC{
+    background-image: url("../assets/Group\ 4.png");
+    width: 250px;
+height: 187.32px;
+left: 8.14%;
+right: -8.14%;
+top: 14.06%;
+bottom: -14.06%;
+
+margin-left: 120px;
+}
 
